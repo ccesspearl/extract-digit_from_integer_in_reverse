@@ -13,5 +13,8 @@ def reverse_number(given_number):
     reverse_number = convert_string[::-1]
 
 # Inside the function, create a loop to have spaces to each numbers 
+    for i in reverse_number:
+        print(i, end= " ")
+
 # Input the given number 
 # Print the results 
