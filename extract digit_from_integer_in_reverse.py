@@ -20,3 +20,6 @@ def reverse_number(given_number):
 number = 123456
 
 # Print the results 
+print("Given Number:", number)
+print("Reversed Number:")
+reverse_number(number)
