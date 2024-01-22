@@ -4,6 +4,8 @@
 # Pseudocode 
 
 # Create a function that will reverse the given number 
+def reverse_number(given_number): 
+    
 # Inside the function, convert the given number to string 
 # Inside the function, reverse the given number string 
 # Inside the function, create a loop to have spaces to each numbers 
