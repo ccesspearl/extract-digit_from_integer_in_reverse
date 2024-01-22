@@ -17,4 +17,6 @@ def reverse_number(given_number):
         print(i, end= " ")
 
 # Input the given number 
+number = 123456
+
 # Print the results 
