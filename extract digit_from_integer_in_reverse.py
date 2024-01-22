@@ -8,8 +8,10 @@ def reverse_number(given_number):
 
 # Inside the function, convert the given number to string 
     convert_string = str(given_number)
-    
+
 # Inside the function, reverse the given number string 
+    reverse_number = convert_string[::-1]
+
 # Inside the function, create a loop to have spaces to each numbers 
 # Input the given number 
 # Print the results 
